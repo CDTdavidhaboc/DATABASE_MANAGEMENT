@@ -1,0 +1,1 @@
+SELECT * FROM itstore.sari_sari_store;
